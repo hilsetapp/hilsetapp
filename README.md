@@ -1,20 +1,22 @@
 # hilsetapp
 
-Делаю мелкие полезные штуки: для игр, для фронтенда и просто так. Всё открытое, всё работает в браузере, без регистраций и сборок.
+I build open-source tools: web apps, desktop utilities and scripts. Mostly small things that solve one real problem well - no accounts, no tracking, no bloat.
 
-## Игры и RP
+## Games & roleplay
 
-- **[Пульс САМП](https://hilsetapp.github.io/samp-pulse/)** - живой онлайн серверов SA-MP и open.mp: 1200+ серверов, история за сутки, поиск и фильтры
-- **[Gtarp UI kit](https://hilsetapp.github.io/Gtarp-ui-kit/)** - готовые интерфейсы для GTA RP: инвентарь, HUD, чат, телефон, по три скина на каждый
-- **[RAGE Sim](https://github.com/hilsetapp/rage-sim)** - эмулятор RAGE MP в браузере: город на канвасе, боты, а интерфейс и клиент думают, что работают в игре
-- **[GTARP Vue Starter](https://github.com/hilsetapp/GTARP-Vue-Starter)** - стартер для GTA RP: Vue 3, Vite, TypeScript, интерфейс разрабатывается без запуска игры
-- **[The New Z](https://dayz-site-two.vercel.app)** - сайт DayZ-сервера: 3PP, Vanilla++, новости, правила, подключение
+- **[SA-MP Pulse](https://hilsetapp.github.io/samp-pulse/)** - live player counts for 1200+ SA-MP and open.mp servers: 24h history, filters, search. Open data, no login.
+- **[Gtarp UI kit](https://hilsetapp.github.io/Gtarp-ui-kit/)** - ready-made interfaces for GTA RP servers: inventory, HUD, chat, phone, three skins each. Two files, no build step, works with RAGE MP, alt:V and anything with CEF.
+- **[RAGE Sim](https://github.com/hilsetapp/rage-sim)** - RAGE MP emulator in the browser: canvas city, bots, day and night. Your client code runs without changes.
+- **[GTARP Vue Starter](https://github.com/hilsetapp/GTARP-Vue-Starter)** - starter for GTA RP servers: Vue 3 + Vite + TypeScript + Pinia. Typed CEF events, UI development without launching the game.
+- **[The New Z](https://dayz-site-two.vercel.app)** - website of a DayZ PvP server: news, rules, join guide.
 
-## Инструменты
+## Tools
 
-- **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - итоги года по твоему профилю: анимированная история и постер, без входа и трекинга
-- **[Liquid glass studio](https://hilsetapp.github.io/Liquid-glass-studio/)** - конструктор стеклянного эффекта из iOS: собрал вид, скопировал CSS
-- **[discord-fix](https://github.com/hilsetapp/discord-fix/releases/latest)** - одна кнопка, и Discord снова работает; остальной интернет не трогает
-- **[Handoff](https://github.com/hilsetapp/Handoff)** - перенос рабочего контекста между разными ИИ-агентами: сохранил один раз, подхватили все
+- **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - your year in code as an animated story and a shareable poster. No login, no tracking.
+- **[Liquid glass studio](https://hilsetapp.github.io/Liquid-glass-studio/)** - design the iOS liquid glass effect visually, copy production CSS or Tailwind in one click.
+- **[discord-fix](https://github.com/hilsetapp/discord-fix/releases/latest)** - одна кнопка, и Discord снова работает. Не VPN и не прокси, остальной интернет не трогает. Приложение для Windows.
+- **[Handoff](https://github.com/hilsetapp/Handoff)** - portable working context for AI coding agents: save once, every agent picks it up.
 
-Если что-то не работает или есть идея - пиши в issues, читаю.
+**(RU)** - projects for the Russian-speaking audience: interface and docs in Russian.
+
+Issues are open everywhere, I read everything.
