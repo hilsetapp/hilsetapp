@@ -1,6 +1,6 @@
 # hilsetapp
 
-I build open-source tools: web apps, desktop utilities and scripts. Mostly small things that solve one real problem well - no accounts, no tracking, no bloat.
+I build open-source tools: web apps, desktop utilities and scripts. Mostly small things that solve one real problem well.
 
 ## Games & roleplay
 
