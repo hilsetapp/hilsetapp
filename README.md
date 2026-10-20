@@ -4,6 +4,7 @@ I build open-source tools: web apps, desktop utilities and scripts. Mostly small
 
 ## Games & roleplay
 
+- **[RP Reel](https://github.com/hilsetapp/rp-reel)** - журнал событий RP-сервера и видеозапись становятся нарезкой моментов одной кнопкой: таймлайн, клипы без перекодирования, статистика. Плагины для SA-MP, RAGE MP и FiveM.
 - **[Менеджер модов GTA San Andreas](https://github.com/hilsetapp/sa-mod-manager)** - включай и выключай моды одним переключателем, конфликты и замену стандартных файлов видно до запуска игры, профили сборок. Приложение для Windows.
 - **[SA-MP Pulse](https://hilsetapp.github.io/samp-pulse/)** - live player counts for 1200+ SA-MP and open.mp servers: 24h history, filters, search. Open data, no login.
 - **[Gtarp UI kit](https://hilsetapp.github.io/Gtarp-ui-kit/)** - ready-made interfaces for GTA RP servers: inventory, HUD, chat, phone, three skins each. Two files, no build step, works with RAGE MP, alt:V and anything with CEF.
