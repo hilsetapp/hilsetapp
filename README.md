@@ -12,6 +12,10 @@ I build open-source tools: web apps, desktop utilities and scripts. Mostly small
 - **[GTARP Vue Starter](https://github.com/hilsetapp/GTARP-Vue-Starter)** - starter for GTA RP servers: Vue 3 + Vite + TypeScript + Pinia. Typed CEF events, UI development without launching the game.
 - **[The New Z](https://dayz-site-two.vercel.app)** - website of a DayZ PvP server: news, rules, join guide.
 
+## Media & TV
+
+- **[Lampa Setup Lab](https://hilsetapp.github.io/Lampa-Setup-Lab/)** - каталог расширений Lampa с фильтрами по устройствам, инструкциями и честными статусами проверки. [Исходный код](https://github.com/hilsetapp/Lampa-Setup-Lab). Сайт открывается сразу, подключать ничего не нужно.
+
 ## Tools
 
 - **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - your year in code as an animated story and a shareable poster. No login, no tracking.
