@@ -20,6 +20,5 @@ I build open-source tools: web apps, desktop utilities and scripts. Mostly small
 - **[discord-fix](https://github.com/hilsetapp/discord-fix/releases/latest)** - одна кнопка, и Discord снова работает. Не VPN и не прокси, остальной интернет не трогает. Приложение для Windows.
 - **[Handoff](https://github.com/hilsetapp/Handoff)** - portable working context for AI coding agents: save once, every agent picks it up.
 
-**(RU)** - projects for the Russian-speaking audience: interface and docs in Russian.
 
 Issues are open everywhere, I read everything.
