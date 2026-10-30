@@ -18,6 +18,9 @@ I build open-source tools: web apps, desktop utilities and scripts. Mostly small
 
 ## Tools
 
+- **[Repo Reel](https://github.com/hilsetapp/repo-reel)** - turns a public GitHub repository into a 30-second video with README details, code, stars and recent commits. Made in the browser.
+- **[Bus Factor Radar](https://github.com/hilsetapp/bus-factor-radar)** - local-first maintainer and activity signals for npm, Go and Python dependencies. It shows what the public data can support, not a security verdict.
+
 - **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - your year in code as an animated story and a shareable poster. No login, no tracking.
 - **[Liquid glass studio](https://hilsetapp.github.io/Liquid-glass-studio/)** - design the iOS liquid glass effect visually, copy production CSS or Tailwind in one click.
 - **[YouTube Fix](https://github.com/hilsetapp/youtube-fix/releases/latest)** - одна кнопка, и YouTube, Telegram и Discord открываются снова. Автоподбор стратегии, журнал, DNS-помощник. Не VPN, остальной интернет не трогает. Windows.
