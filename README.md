@@ -18,14 +18,14 @@ I build open-source tools: web apps, desktop utilities and scripts. Mostly small
 
 ## Tools
 
-- **[Repo Reel](https://hilsetapp.github.io/repo-reel/)** - turns a public GitHub repository into a 30-second video with README details, code, stars and recent commits. [Source](https://github.com/hilsetapp/repo-reel).
-- **[Bus Factor Radar](https://hilsetapp.github.io/bus-factor-radar/)** - local-first maintainer and activity signals for npm, Go and Python dependencies. It shows what the public data can support, not a security verdict. [Source](https://github.com/hilsetapp/bus-factor-radar).
+- **[Repo Reel](https://hilsetapp.github.io/repo-reel/)** - I made it to turn a public GitHub repository into a 30-second video with README details, code, stars and recent commits. [Source](https://github.com/hilsetapp/repo-reel).
+- **[Bus Factor Radar](https://hilsetapp.github.io/bus-factor-radar/)** - I made it to surface public maintainer and activity signals for npm, Go and Python dependencies. It is an indicator, not an audit. [Source](https://github.com/hilsetapp/bus-factor-radar).
 
 - **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - your year in code as an animated story and a shareable poster. No login, no tracking.
-- **[Liquid glass studio](https://hilsetapp.github.io/Liquid-glass-studio/)** - design the iOS liquid glass effect visually, copy production CSS or Tailwind in one click.
+- **[Liquid Glass Studio](https://hilsetapp.github.io/Liquid-glass-studio/)** - I built it to preview glass on cards, buttons, and navigation, then copy CSS, CSS variables, or Tailwind. [Source](https://github.com/hilsetapp/Liquid-glass-studio).
 - **[YouTube Fix](https://github.com/hilsetapp/youtube-fix/releases/latest)** - одна кнопка, и YouTube, Telegram и Discord открываются снова. Автоподбор стратегии, журнал, DNS-помощник. Не VPN, остальной интернет не трогает. Windows.
 - **[discord-fix](https://github.com/hilsetapp/discord-fix/releases/latest)** - одна кнопка, и Discord снова работает. Не VPN и не прокси, остальной интернет не трогает. Приложение для Windows.
-- **[Handoff](https://github.com/hilsetapp/Handoff)** - portable working context for AI coding agents: save once, every agent picks it up.
+- **[Handoff](https://github.com/hilsetapp/Handoff)** - I built it to carry project decisions, failed approaches, test status, and next steps between coding sessions. [Source](https://github.com/hilsetapp/Handoff).
 
 
 Issues are open everywhere, I read everything.
