@@ -8,7 +8,7 @@ Open-source projects for games, desktop workflows, and web development.
   <a href="https://github.com/hilsetapp/bugpack-local">
     <img src="https://raw.githubusercontent.com/hilsetapp/bugpack-local/main/assets/profile-card.png" alt="Bugpack Local: browser bug capture to a local .bugpack file" width="100%">
   </a>
-  <p><a href="https://github.com/hilsetapp/bugpack-local">Source and details</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases/download/v0.1.1/bugpack-local-extension.zip">Download extension preview</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases">Releases</a></p>
+  <p><a href="https://github.com/hilsetapp/bugpack-local">Source and details</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases/download/v0.1.2/bugpack-local-extension.zip">Download extension preview</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases">Releases</a></p>
 </div>
 
 ## Games & roleplay
