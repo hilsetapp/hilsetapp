@@ -2,15 +2,6 @@
 
 Open-source projects for games, desktop workflows, and web development.
 
-## Featured
-
-<div align="center">
-  <a href="https://github.com/hilsetapp/bugpack-local">
-    <img src="https://raw.githubusercontent.com/hilsetapp/bugpack-local/main/assets/profile-card.png" alt="Bugpack Local: browser bug capture to a local .bugpack file" width="100%">
-  </a>
-  <p><a href="https://github.com/hilsetapp/bugpack-local">Source and details</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases/download/v0.1.2/bugpack-local-extension.zip">Download extension preview</a> · <a href="https://github.com/hilsetapp/bugpack-local/releases">Releases</a></p>
-</div>
-
 ## Games & roleplay
 
 - **[RP Reel](https://github.com/hilsetapp/rp-reel)** - turns roleplay server logs and video into a timeline of moments, clips without re-encoding, and stats. Plugins for SA-MP, RAGE MP, and FiveM.
@@ -27,6 +18,7 @@ Open-source projects for games, desktop workflows, and web development.
 
 ## Tools
 
+- **[Bugpack Local](https://github.com/hilsetapp/bugpack-local)** - local browser bug capture with a 30-second screen buffer, browser events, a reviewable `.bugpack` export, and a local MCP reader.
 - **[Repo Reel](https://hilsetapp.github.io/repo-reel/)** - turns a public GitHub repository into a short video with README details, code, stars, and recent commits. [Source](https://github.com/hilsetapp/repo-reel).
 - **[Bus Factor Radar](https://hilsetapp.github.io/bus-factor-radar/)** - shows public maintainer and activity signals for npm, Go, and Python dependencies. An indicator, not an audit. [Source](https://github.com/hilsetapp/bus-factor-radar).
 - **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - animated year-in-code story and shareable poster. No login or tracking.
