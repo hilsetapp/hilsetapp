@@ -19,6 +19,7 @@ Open-source projects for games, desktop workflows, and web development.
 ## Tools
 
 - **[Bugpack Local](https://github.com/hilsetapp/bugpack-local)** - local browser bug capture with a 30-second screen buffer, browser events, a reviewable `.bugpack` export, and a local MCP reader.
+- **[Перед запуском](https://github.com/hilsetapp/pered-zapuskom)** - checks PowerShell, Bash, Windows batch files, and `package.json` locally before launch. Shows matching lines, not a safety verdict. [Open](https://hilsetapp.github.io/pered-zapuskom/).
 - **[Repo Reel](https://hilsetapp.github.io/repo-reel/)** - turns a public GitHub repository into a short video with README details, code, stars, and recent commits. [Source](https://github.com/hilsetapp/repo-reel).
 - **[Bus Factor Radar](https://hilsetapp.github.io/bus-factor-radar/)** - shows public maintainer and activity signals for npm, Go, and Python dependencies. An indicator, not an audit. [Source](https://github.com/hilsetapp/bus-factor-radar).
 - **[GitHub Wrapped 2026](https://hilsetapp.github.io/Wrapped-2026/)** - animated year-in-code story and shareable poster. No login or tracking.
