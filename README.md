@@ -2,6 +2,10 @@
 
 Open-source projects for games, desktop workflows, and web development.
 
+## Game development
+
+- **[Economy QA](https://github.com/hilsetapp/economy-qa)** - balance-testing workbench for RP servers and indie games. Import JSON/CSV models, run seeded scenarios and design checks in the browser or CLI. [Open workbench](https://hilsetapp.github.io/economy-qa/).
+
 ## Games & roleplay
 
 - **[RP Reel](https://github.com/hilsetapp/rp-reel)** - turns roleplay server logs and video into a timeline of moments, clips without re-encoding, and stats. Plugins for SA-MP, RAGE MP, and FiveM.
