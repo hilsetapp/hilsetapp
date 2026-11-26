@@ -20,6 +20,10 @@ Open-source projects for games, desktop workflows, and web development.
 
 - **[Lampa Setup Lab](https://hilsetapp.github.io/Lampa-Setup-Lab/)** - Lampa extension catalog with device filters, setup guides, and clear testing notes. [Source](https://github.com/hilsetapp/Lampa-Setup-Lab).
 
+## Market data
+
+- **[Depthline](https://github.com/hilsetapp/cross-exchange-slippage)** - browser-only spot liquidity and slippage workbench. Search USDT markets, compare visible order books and model fee-adjusted execution. [Live demo](https://hilsetapp.github.io/cross-exchange-slippage/).
+
 ## Tools
 
 - **[Bugpack Local](https://github.com/hilsetapp/bugpack-local)** - local browser bug capture with a 30-second screen buffer, browser events, a reviewable `.bugpack` export, and a local MCP reader.
